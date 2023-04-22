@@ -1,0 +1,1 @@
+in INDEX.JS ReactDOM is defined as react-dom/client which is need to be declared as react-dom.
